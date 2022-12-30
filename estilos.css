@@ -1,0 +1,98 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#fondo {
+    margin:auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 1800px;
+    background-color: red;
+    position: relative;
+}
+
+#historia {
+    float: right;
+    width: 300px;
+    height: 200px;
+    background-color: darkorange;
+    top: 1%;
+    right: 1%;
+    position: relative;
+    }
+
+#nombre {
+    width: 410px;
+    height: 200px;
+    background-color: gold;
+    left: 225px;
+    position: absolute;
+    top: 1%;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    right: 10%;
+    bottom: 89%;
+    left: 1%;
+    position: absolute;
+    top: 1%;
+}
+
+#body {
+    width: 620px;
+    height: 480px;
+    background-color: brown;
+    margin-top: 20px;
+    position: absolute;
+    bottom: 1060px;
+    left: 20px;
+}
+
+#grupo_what {
+width: 100px;
+height: 100px;
+background-color: rgb(121, 119, 119);
+position: sticky;
+bottom: 0;
+left: 200px;
+border-radius: 50%;
+}
+
+#grupo_what a img {
+    width: 100px;
+    height: 100px;
+}
+
+#cajastx {
+    background-color: rgb(232, 243, 137);
+    width: 620px;
+    height: 980px;
+    position: absolute;
+    right: 470px;
+    top: 820px;
+}
+
+#derechatx {
+    background-color: beige;
+    width: 300px;
+    height: 900px;
+    position: absolute;
+    left: 800px;
+    bottom: 0px;
+    top: 310px;
+}
+
+#derechabajo {
+    background-color: grey;
+    width: 300px;
+    height: 560px;
+    left: 800px;
+    position: absolute;
+    bottom: 0px;
+    top: 1240px;
+    border-radius: 25%;
+}
